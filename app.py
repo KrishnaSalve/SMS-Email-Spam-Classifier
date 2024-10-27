@@ -28,7 +28,7 @@ def transform_text(input_sms):
         if i.isalnum():
             y.append(i)
             
-    # Removing Stopwords and Punctuation.
+    # Removing Stopwords and Punctuation
     text = y[:]
     y.clear()
 
