@@ -4,3 +4,4 @@ streamlit
 pickle 
 nltk
 string
+scikit-learn
