@@ -5,3 +5,5 @@ pickle
 nltk
 string
 scikit-learn
+matplotlib
+seaborn
